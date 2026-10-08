@@ -1,0 +1,6 @@
+.venv/
+data/raw/
+*.parquet
+target/ 
+node_modules/ 
+mlruns/
